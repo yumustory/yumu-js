@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
-<title>雨木散文故事2</title>
-<description>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</description>
+<title>雨木-觀後感2</title>
 <link>https://regardhuang.blogspot.com/search/label/podcast02</link>
+<description>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</description>
+<language>zh-tw</language>
+<copyright>雨木散文故事 2019</copyright>
 <lastBuildDate>Fri, 18 Jan 2019 01:19:40 +0000</lastBuildDate>
 <generator>Blogger</generator>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<itunes:subtitle>有聲文章album-02</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</itunes:summary>
 <itunes:owner>
 <itunes:email>h.peichieh@gmail.com</itunes:email>
 <itunes:name>雨木</itunes:name>
 </itunes:owner>
-<itunes:author>雨木</itunes:author>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://2.bp.blogspot.com/-sk8JW5PXOBg/XD0DkXw-9QI/AAAAAAAAcPw/Aw1LxXsdLSwUhIUReij_cBjhglGufJkZgCLcBGAs/s1600/yumu-id-cover-itune02.jpg" />
 <itunes:keywords>雨木散文故事,觀後感</itunes:keywords>
 <itunes:subtitle>有聲文章album-02</itunes:subtitle>
-<language>zh-tw</language>
-<copyright>雨木散文故事 2019</copyright>
+<itunes:category text="Society &amp; Culture">
+<itunes:category text="Personal Journals" />
+</itunes:category>
 <item>
 <pubDate>Sat, 02 Jan 2016 11:19:00 +0000</pubDate>
 <title>觀後感: 'Love and Mercy' 搖滾愛重生 2015</title>
@@ -80,7 +80,8 @@
 <itunes:summary>社會寫實題材的劇情片，他在大賣場擔任保全人員，客人有沒有順手牽羊，同事有沒有老實結帳，都是他監控的範圍，工作令他想起自己的生活，感慨每個人過生活都不容易，偏偏發生一連串違反賣場秩序的事，給他厚重的道德壓力。</itunes:summary>
 <itunes:keywords>雨木散文故事,觀後感</itunes:keywords>
 <enclosure url="http://feedproxy.google.com/~r/yumustory/podcast02/~5/rkJ7o1vUUwc/011-la-loi-du-marche.mp3" length="0" type="audio/mpeg" />
-<itunes:duration>12:35</itunes:duration></item>
+<itunes:duration>12:35</itunes:duration>
+</item>
 <item>
 <pubDate>Tue, 15 Dec 2015 18:25:00 +0000</pubDate>
 <title>觀後感: 'Ricki and the Flash' 搖滾女王 2015</title>
