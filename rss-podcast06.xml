@@ -1,23 +1,30 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>雨木-觀後感6</title><itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals" /></itunes:category><itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals" /></itunes:category><itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals" /></itunes:category><itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals" /></itunes:category>
+<title>雨木-觀後感6</title>
 <link>https://regardhuang.blogspot.com/search/label/podcast06</link>
 <description>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</description>
 <language>zh-tw</language>
 <copyright>雨木散文故事 2019</copyright>
 <lastBuildDate>Thu, 17 Jan 2019 20:32:43 PST</lastBuildDate>
 <generator>Blogger</generator>
+<googleplay:author>雨木</googleplay:author>
 <itunes:author>雨木</itunes:author>
+<googleplay:description>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</googleplay:description>
 <itunes:summary>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</itunes:summary>
 <itunes:owner>
 <itunes:email>h.peichieh@gmail.com</itunes:email>
 <itunes:name>雨木</itunes:name>
 </itunes:owner>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
+<googleplay:image href="https://2.bp.blogspot.com/-WAUm1cDb5EA/XD0Dly00QWI/AAAAAAAAcQA/I0OE0bJmJS8nucAJ0BV2XDGilCdhMo-9wCLcBGAs/s1600/yumu-id-cover-itune06.jpg"/>
 <itunes:image href="https://2.bp.blogspot.com/-WAUm1cDb5EA/XD0Dly00QWI/AAAAAAAAcQA/I0OE0bJmJS8nucAJ0BV2XDGilCdhMo-9wCLcBGAs/s1600/yumu-id-cover-itune06.jpg" />
 <itunes:keywords>雨木散文故事,觀後感</itunes:keywords>
 <itunes:subtitle>有聲文章album-06</itunes:subtitle>
+<googleplay:category text="News &amp; Magazines"/>
 <itunes:category text="Society &amp; Culture">
 <itunes:category text="Personal Journals" />
 </itunes:category>
@@ -26,6 +33,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/d-g7sxJw-xo/sharp-objects-review.html</link>
 <pubDate>Thu, 15 Nov 2018 11:25:00 PST</pubDate>
 <description>心理驚悚影集，故事裡的小鎮疑雲重重，居民約兩千人，有望族也有貧戶，彼此仰賴單一經濟產業 - 屠宰業，活在緩慢流動的血液裡。另外，地方事不分大小，一張嘴貼著另一個耳朵互傳八卦，是外來客無法瞭解的方言。如今當地發生未成年凶殺案，相隔幾個月又發生未成年失蹤案，一名記者勉強聽從主管的指示前往採訪，一方面她有精神病史，二方面小鎮上不只懸案，還有她的兒時陰影，沒有人比她更害怕家鄉，也沒有人比她更瞭解家鄉，全看她敢不敢面對自己的過去。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>那些殺不死你的…</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -38,6 +46,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/4Srh9fEj37w/the-terror-tvseries-review.html</link>
 <pubDate>Sat, 03 Nov 2018 08:01:00 PDT</pubDate>
 <description>驚悚冒險題材的電視劇，描述十九世紀中葉，恐懼號和幽冥號，兩艘英格蘭皇家海軍軍艦奉命執行任務，以當時最先進的造船技術加強動力以及破冰能力，計劃從英格蘭出發進入北極圈開拓新航線。若開拓成功，不僅補齊當時世界海圖的最後一塊拼圖，同時也是一條富有貿易價值的黃金航線通往中國和印度，英格蘭有望名利雙收。捕鯨船在巴芬灣目擊恐懼號和幽冥號，等待適當的天候與海相進入迷宮般的極地海域，卻是最後的行蹤，再也沒有人看見那兩艘軍艦。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>問世間恐懼為何物</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -50,6 +59,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/FC56sxCMJ1o/ma-rosa-movie-review.html</link>
 <pubDate>Thu, 28 Dec 2017 01:45:00 PST</pubDate>
 <description>菲律賓劇情片，描述馬尼拉郊區有戶人家，兩夫妻和他們的青少年孩子以經營雜貨店維生，老闆娘名叫羅莎與街坊鄰居來往熱絡，大家都叫她羅莎媽媽。某天晚上警方突襲他們的雜貨店，搜出數公克白色粉末，羅莎和她先生雙雙押回警局偵訊。街坊鄰居有人抗議有人沈默，場面混亂。孩子們隨後前往警局探望爸媽，向值班員警詳實描述雙親的外觀特徵和被收押時間，居然登記簿上完全沒有這回事…</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>毒品危害整個社會</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -62,6 +72,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/-po8PkBIKew/the-last-word-movie-review.html</link>
 <pubDate>Fri, 21 Jul 2017 14:57:00 PDT</pubDate>
 <description>溫馨喜劇，描述一位已經退休的廣告公司創辦人的晚年生活，她做事幹練講究細節，使她成為周遭眼中非常難相處的女人，也讓她飽受生活的寂寞。無意間她發現別人在報紙上刊登的訃聞兼顧虛榮和真情，她立刻找報社編輯幫她撰寫生前訃聞，然而，沒有任何一位受訪親友願意說兩句好話，眼看就要變成抱怨大長篇，編輯這才發現她最後真正想做的事情不只是訃聞。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>意外的友誼從最後開始</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -74,6 +85,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/D_5M-CkdrRA/the-bad-batch-movie-review.html</link>
 <pubDate>Thu, 06 Jul 2017 23:29:00 PDT</pubDate>
 <description>非典型的愛情片，描述一位少女被某種軍事機構判定為劣質品（bad batch），在美墨邊境被放逐，她打算穿越沙漠尋找「夢想」，不幸被食人族當作食物，因此斷臂又斷腿，她奮勇逃出食人族部落，繼續尋找「夢想」，有一個高大魁武肌肉發達的男食人族盯上少女，然而，他跟蹤少女不是為了覓食。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>換一個角度追夢</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -86,6 +98,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/E37K3mxJkTo/gods-and-monsters-review.html</link>
 <pubDate>Mon, 26 Jun 2017 10:03:00 PDT</pubDate>
 <description>半傳記式劇情片，描述一位滿頭白髮的電影導演的退休生活，老導演愛畫畫，不太愛聽醫生的話，煩惱心願未了抱憾而終，直到出現一位壯碩憨厚的園丁，不知道老導演曾經拍過《科學怪人》，也不知道老導演經歷的傷痛，更不知道老導演內心的祕密。隨著相處，老導演一點一滴分享他的往事，因為他相信園丁可以為他完成最後的心願。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>James Whale的半傳記電影</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -98,6 +111,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/9SGQfo20reY/mal-de-pierres-review.html</link>
 <pubDate>Sun, 11 Jun 2017 20:13:00 PDT</pubDate>
 <description>法國愛情電影，描述一位相信愛情至上的女子，與她有名無實的丈夫以及他們的青少年兒子一同前往里昂參加兒子的音樂比賽。她在街角意外看見熟悉的路牌，就算拋下丈夫和兒子，她也要自己去查清楚那住址的主人，是不是當年她在瑞士療養院治療腎結石所認識的軍官？是不是她深愛的，卻不再與她聯繫的男人？</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>她再痛也要愛</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -110,6 +124,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/mBSGGIiFzG8/we-need-to-talk-about-kevin-review.html</link>
 <pubDate>Thu, 08 Jun 2017 11:19:00 PDT</pubDate>
 <description>劇情片，描述一名獨居女子，她的房子被潑紅漆，出門躲躲藏藏，她有亮眼的工作經歷，但她將就一份可以餬口的工作就好。這些被周遭排擠的處境，全因為兩年前她的青少年兒子在學校犯下重大刑案，劇烈的社會譴責毀掉她的主管級工作和中產階級家庭，可是，她沒有改名也沒有搬家，所有直接間接的傷害她概括承受，並且定期前往監獄探視她的兒子，因為她願意等待適當的時機，由她的兒子親口說明這一切究竟為什麼。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>她為她的兒子承受一切</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -122,6 +137,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/ZmQdVXNY-Nw/table19-movie-review.html</link>
 <pubDate>Tue, 06 Jun 2017 11:58:00 PDT</pubDate>
 <description>浪漫喜劇，描述一位女孩收到婚禮請柬，她本來應該是籌備人員兼女儐相，卻因為新娘的哥哥用簡訊的方式甩了她而變成局外人。女孩仍願意參加婚禮，可是她發現自己被安排在第十九桌，被禮貌邀請的一桌，也是離主桌最遠的一桌，同桌還有五位身分也很尷尬的賓客，於是他們決定同桌共濟，分享彼此的心情故事。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>她坐在婚禮的最後一桌</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
@@ -134,6 +150,7 @@
 <link>http://feedproxy.google.com/~r/yumustory/podcast06/~3/lBPxOa0yyUE/bokeh-movie-review.html</link>
 <pubDate>Sat, 03 Jun 2017 12:58:00 PDT</pubDate>
 <description>微微科幻色彩的劇情片，描述一對年輕戀人前往冰島旅行，是他們期待已久，存錢也存很久的夢幻之旅。冰川、火山、造型建築，一景一物都比他們想像中的更美麗。可是，他們第二天醒來突然發現旅館沒人，街上沒人，機場沒人，其他人全部都消失了。他們沒有辦法離開冰島，也無法對外聯繫，彷彿全世界只剩下他們倆。</description>
+<googleplay:explicit>no</googleplay:explicit>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>人都不見了，難道這就是他們說的末日？</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
