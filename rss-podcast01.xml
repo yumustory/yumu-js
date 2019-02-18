@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
+<link>https://regardhuang.blogspot.com/search/label/podcast01</link>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/yumustory/yumu-js/master/rss-podcast01.xml" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
 <title>雨木-散文</title>
 <description>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</description>
-<link>https://regardhuang.blogspot.com/search/label/podcast01</link>
 <lastBuildDate>Wed, 16 Jan 2019 07:19:59 PST</lastBuildDate>
 <pubDate>Wed, 16 Jan 2019 07:14:02 PST</pubDate>
 <generator>Blogger</generator> 
