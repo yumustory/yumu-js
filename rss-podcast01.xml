@@ -1,256 +1,284 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2chinesetwfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
-<link>https://regardhuang.blogspot.com/search/label/podcast01</link>
-<atom:link href="https://raw.githubusercontent.com/yumustory/yumu-js/master/rss-podcast01.xml" rel="self" type="application/rss+xml"/>
 <title>雨木-散文</title>
+<link>https://regardhuang.blogspot.com/search/label/podcast01</link>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/yumustory/podcast01" />
 <description>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</description>
-<lastBuildDate>Wed, 16 Jan 2019 07:19:59 PST</lastBuildDate>
-<pubDate>Wed, 16 Jan 2019 07:14:02 PST</pubDate>
-<generator>Blogger</generator> 
-<googleplay:category text="News &amp; Magazines"/>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<itunes:subtitle>有聲文章album-01</itunes:subtitle>
-<googleplay:description>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</googleplay:description>
-<itunes:summary>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</itunes:summary>
-<googleplay:author>雨木</googleplay:author>
-<itunes:author>雨木</itunes:author>
-<itunes:owner>
-<itunes:name>雨木</itunes:name>
-<itunes:email>h.peichieh@gmail.com</itunes:email>
-</itunes:owner>
-<googleplay:image href="https://4.bp.blogspot.com/-R6-8EAAD0Uw/XD0Dkcsv4lI/AAAAAAAAcPs/uOSiHXiC60obTcpp8IR45myfNOq_RMhFQCLcBGAs/s1600/yumu-id-cover-itune01.jpg"/>
-<itunes:image href="https://4.bp.blogspot.com/-R6-8EAAD0Uw/XD0Dkcsv4lI/AAAAAAAAcPs/uOSiHXiC60obTcpp8IR45myfNOq_RMhFQCLcBGAs/s1600/yumu-id-cover-itune01.jpg" />
 <language>zh-tw</language>
-<copyright>雨木散文故事 2019</copyright>
+<managingEditor>noreply@blogger.com (雨木)</managingEditor>
+<lastBuildDate>Wed, 06 Mar 2019 08:57:25 PST</lastBuildDate>
+<generator>Blogger</generator>
+<atom:id xmlns:atom="http://www.w3.org/2005/Atom">tag:blogger.com,1999:blog-4419309678797515130</atom:id>
+<openSearch:totalResults xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">13</openSearch:totalResults>
+<openSearch:startIndex xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">1</openSearch:startIndex>
+<openSearch:itemsPerPage xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">25</openSearch:itemsPerPage>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/yumustory/podcast01" />
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="yumustory/podcast01" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+<media:copyright>雨木散文故事 2019</media:copyright>
+<media:thumbnail url="https://4.bp.blogspot.com/-ujg9lBeN5cw/XH1sS08yPBI/AAAAAAAAceM/mYnQMBRu0xEISxu3gQ6YYGi6V6Wch_FewCLcBGAs/s1600/yumu.jpg" />
+<media:keywords>雨木,podcast</media:keywords>
+<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Society &amp; Culture/Personal Journals</media:category>
+<itunes:owner>
+<itunes:email>h.peichieh@gmail.com</itunes:email>
+<itunes:name>雨木</itunes:name>
+</itunes:owner>
+<itunes:author>雨木</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<item>
-<title>人與人的距離</title>
-<description>很久很久以前，人們相信有一種樹會長羊，結果子似的，肥美滋味特別吸引獵人或狼。後來我在日本電影'羊の木'看到他們引用這種古生物，也看到了自己心裡好久不見的感覺。</description>
-<itunes:subtitle>很久很久以前，人們相信有一種樹會長羊…</itunes:subtitle>
-<itunes:summary>很久很久以前，人們相信有一種樹會長羊，結果子似的，肥美滋味特別吸引獵人或狼。後來我在日本電影'羊の木'看到他們引用這種古生物，也看到了自己心裡好久不見的感覺。</itunes:summary>
-<link>https://regardhuang.blogspot.com/2018/09/the-distance.html</link>
-<pubDate>Wed, 5 Sep 2018 07:14:02 PST</pubDate>
-<guid>https://regardhuang.blogspot.com/2018/09/the-distance.html</guid>
-<enclosure url="https://archive.org/download/the-distance/the-distance.mp3" length="3595222" type="audio/mpeg" />
+<itunes:image href="https://4.bp.blogspot.com/-ujg9lBeN5cw/XH1sS08yPBI/AAAAAAAAceM/mYnQMBRu0xEISxu3gQ6YYGi6V6Wch_FewCLcBGAs/s1600/yumu.jpg" />
+<itunes:keywords>雨木,podcast</itunes:keywords>
+<itunes:subtitle>有聲文章</itunes:subtitle>
+<itunes:summary>散文、觀後感、線上廣播，在忙碌世界裡，雨木帶給你不一樣的生活步調。</itunes:summary>
 <itunes:category text="Society &amp; Culture">
 <itunes:category text="Personal Journals" />
 </itunes:category>
+<feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2Fyumustory%2Fpodcast01" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare>
+<feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://feedly.com/#subscription/feed/http://feeds.feedburner.com/yumustory/podcast01" src="http://s3.feedly.com/feedburner/feedly.png">Subscribe with Feedly</feedburner:feedFlare>
+<feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="https://www.subtome.com/#/subscribe?feeds=http%3A%2F%2Ffeeds.feedburner.com%2Fyumustory%2Fpodcast01" src="http://www.subtome.com/subtome-feedburner.png">Subscribe with SubToMe</feedburner:feedFlare>
+<feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.bloglines.com/sub/http://feeds.feedburner.com/yumustory/podcast01" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare>
+<feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fyumustory%2Fpodcast01" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare>
+<feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Fyumustory%2Fpodcast01" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare>
+<feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Fyumustory%2Fpodcast01" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare>
+<item>
+<title>有聲: 人與人的距離</title>
+<link>https://regardhuang.blogspot.com/2018/09/speakable-article13.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Tue, 04 Sep 2018 23:24:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-5710133069645694323</guid>
+<description>很久很久以前，人們相信有一種樹會長羊，結果子似的，肥美滋味特別吸引獵人或狼。後來我在日本電影&amp;#39;羊の木&amp;#39;看到他們引用這種古生物，也看到了自己心裡好久不見的感覺。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2018/09/speakable-article13.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/the-distance/the-distance.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:47:35.613+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/the-distance/the-distance.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:duration>3:52</itunes:duration>
-<itunes:keywords>雨木散文故事</itunes:keywords>
+<itunes:subtitle>很久很久以前，人們相信有一種樹會長羊，結果子似的，肥美滋味特別吸引獵人或狼。後來我在日本電影&amp;#39;羊の木&amp;#39;看到他們引用這種古生物，也看到了自己心裡好久不見的感覺。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>很久很久以前，人們相信有一種樹會長羊，結果子似的，肥美滋味特別吸引獵人或狼。後來我在日本電影&amp;#39;羊の木&amp;#39;看到他們引用這種古生物，也看到了自己心裡好久不見的感覺。</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>怪我過分著迷</title>
-<description>下班時間，我來到地底下，有的人靜止，有的人走動，我站在人群之中聽著遠近高低的聲音，學生族說著他們的老師，上班族說的他們的辦公室，雖然七嘴來自八方，但若想認真聽清某個聲音，也不是太困難。</description>
-<link>https://regardhuang.blogspot.com/2015/11/blog-post_28.html</link>
-<guid>https://regardhuang.blogspot.com/2015/11/blog-post_28.html</guid>
-<pubDate>Wed, 16 Jan 2019 07:14:02 PST</pubDate>
+<title>有聲: 怪我過分著迷</title>
+<link>https://regardhuang.blogspot.com/2015/11/speakable-article12.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Fri, 27 Nov 2015 22:19:00 PST</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-622439000092317158</guid>
+<description>下班時間，我來到地底下，有的人靜止，有的人走動，我站在人群之中聽著遠近高低的聲音，學生族說著他們的老師，上班族說的他們的辦公室，雖然七嘴來自八方，但若想認真聽清某個聲音，也不是太困難，像是排在我前面的男人和他的兒子說話，我無意偷聽，有時候，似是怪他距離太近，又像怪我過分著迷，人嘛！總是在動靜之間東張西望外掛無聊之中找有趣，到底，男人說了什麼？&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/11/speakable-article12.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/B01Obsesse/B01-obsesse-%E6%80%AA%E6%88%91%E9%81%8E%E5%88%86%E8%91%97%E8%BF%B7.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:47:26.167+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/B01Obsesse/B01-obsesse-%E6%80%AA%E6%88%91%E9%81%8E%E5%88%86%E8%91%97%E8%BF%B7.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>活著的感覺來自偷聽</itunes:subtitle>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<itunes:summary>下班時間，我來到地底下，有的人靜止，有的人走動，我站在人群之中聽著遠近高低的聲音，學生族說著他們的老師，上班族說的他們的辦公室，雖然七嘴來自八方，但若想認真聽清某個聲音，也不是太困難。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/B01Obsesse/B01-obsesse-%E6%80%AA%E6%88%91%E9%81%8E%E5%88%86%E8%91%97%E8%BF%B7.mp3" length="10314346" type="audio/mpeg" />
-<itunes:duration>17:06</itunes:duration>
+<itunes:subtitle>下班時間，我來到地底下，有的人靜止，有的人走動，我站在人群之中聽著遠近高低的聲音，學生族說著他們的老師，上班族說的他們的辦公室，雖然七嘴來自八方，但若想認真聽清某個聲音，也不是太困難，像是排在我前面的男人和他的兒子說話，我無意偷聽，有時候，似是怪他距離太近，又像怪我過分著迷，人嘛！總是在動靜之間東張西望外掛無聊之中找有趣，到底，男人說了什麼？</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>下班時間，我來到地底下，有的人靜止，有的人走動，我站在人群之中聽著遠近高低的聲音，學生族說著他們的老師，上班族說的他們的辦公室，雖然七嘴來自八方，但若想認真聽清某個聲音，也不是太困難，像是排在我前面的男人和他的兒子說話，我無意偷聽，有時候，似是怪他距離太近，又像怪我過分著迷，人嘛！總是在動靜之間東張西望外掛無聊之中找有趣，到底，男人說了什麼？</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>夢幻屋</title>
-<link>https://regardhuang.blogspot.com/2015/10/blog-post_19.html</link>
-<guid>https://regardhuang.blogspot.com/2015/10/blog-post_19.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Mon, 19 Oct 2015 07:14:02 PST</pubDate>
-<description>一次參加婚宴，喜事牽起了兩家人，也讓我們四個彼此失聯多年的老朋友重逢，幸好沒人需要高唱《同桌的你》或是《婚禮的祝福》，四人痛快大吃大喝一番，並且交換近況，或許是意猶未盡，我們另外約了時間，打算好好的敘敘舊。</description>
+<title>有聲: 夢幻屋</title>
+<link>https://regardhuang.blogspot.com/2015/10/speakable-article11.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Sun, 18 Oct 2015 23:15:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-7858885625811235648</guid>
+<description>一次參加婚宴，喜事牽起了兩家人，也讓我們四個彼此失聯多年的老朋友重逢，幸好沒人需要高唱《同桌的你》或是《婚禮的祝福》，四人痛快大吃大喝一番，並且交換近況，或許是意猶未盡，我們另外約了時間，打算好好的敘敘舊。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/10/speakable-article11.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/B02House/B02-house-%E5%A4%A2%E5%B9%BB%E5%B1%8B.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:47:15.151+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/B02House/B02-house-%E5%A4%A2%E5%B9%BB%E5%B1%8B.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>想住在什麼樣的房子裡？</itunes:subtitle>
+<itunes:subtitle>一次參加婚宴，喜事牽起了兩家人，也讓我們四個彼此失聯多年的老朋友重逢，幸好沒人需要高唱《同桌的你》或是《婚禮的祝福》，四人痛快大吃大喝一番，並且交換近況，或許是意猶未盡，我們另外約了時間，打算好好的敘敘舊。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
 <itunes:summary>一次參加婚宴，喜事牽起了兩家人，也讓我們四個彼此失聯多年的老朋友重逢，幸好沒人需要高唱《同桌的你》或是《婚禮的祝福》，四人痛快大吃大喝一番，並且交換近況，或許是意猶未盡，我們另外約了時間，打算好好的敘敘舊。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/B02House/B02-house-%E5%A4%A2%E5%B9%BB%E5%B1%8B.mp3" length="4051787" type="audio/mpeg" />
-<itunes:duration>6:39</itunes:duration>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>旁觀者迷</title>
-<link>https://regardhuang.blogspot.com/2015/09/blog-post_30.html</link>
-<guid>https://regardhuang.blogspot.com/2015/09/blog-post_30.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Wed, 30 Sep 2015 07:14:02 PST</pubDate>
-<description>節日除了它們本身的意義，對我們也有提醒作用，像是甫過中秋，年過大半天轉涼，也是所謂的中秋之夜，一夜冷一夜，自然的暗示我們時間走到哪了。如果我們特別珍惜某個節日，那麼它的提醒作用更加強烈──又過了一年。</description>
+<title>有聲: 旁觀者迷</title>
+<link>https://regardhuang.blogspot.com/2015/09/speakable-article10.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Tue, 29 Sep 2015 23:11:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-5281790146650767526</guid>
+<description>節日除了它們本身的意義，對我們也有提醒作用，像是甫過中秋，年過大半天轉涼，也是所謂的中秋之夜，一夜冷一夜，自然的暗示我們時間走到哪了。如果我們特別珍惜某個節日，那麼它的提醒作用更加強烈──又過了一年。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/09/speakable-article10.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/B03Outsider/B03-outsider-%E6%97%81%E8%A7%80%E8%80%85%E8%BF%B7.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:46:33.224+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/B03Outsider/B03-outsider-%E6%97%81%E8%A7%80%E8%80%85%E8%BF%B7.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>那是人生。</itunes:subtitle>
+<itunes:subtitle>節日除了它們本身的意義，對我們也有提醒作用，像是甫過中秋，年過大半天轉涼，也是所謂的中秋之夜，一夜冷一夜，自然的暗示我們時間走到哪了。如果我們特別珍惜某個節日，那麼它的提醒作用更加強烈──又過了一年。</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
 <itunes:summary>節日除了它們本身的意義，對我們也有提醒作用，像是甫過中秋，年過大半天轉涼，也是所謂的中秋之夜，一夜冷一夜，自然的暗示我們時間走到哪了。如果我們特別珍惜某個節日，那麼它的提醒作用更加強烈──又過了一年。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/B03Outsider/B03-outsider-%E6%97%81%E8%A7%80%E8%80%85%E8%BF%B7.mp3" length="5136469" type="audio/mpeg" />
-<itunes:duration>8:28</itunes:duration>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>散文: 用耳朵看</title>
-<link>https://regardhuang.blogspot.com/2015/05/blog-post_8.html</link>
-<guid>https://regardhuang.blogspot.com/2015/05/blog-post_8.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Fri, 8 May 2015 13:24:02 PST</pubDate>
-<description>眼前一碗麻醬麵，不知道是天氣熱還是麵條燙口，我吃得特別慢，多出來的時間，我的視線開始游移，身旁一位老哥也吃麻醬麵，他也吃得慢，但原因不同，立著小平板，戴著鐵三角，看片子呢！</description>
+<title>有聲: 用耳朵看</title>
+<link>https://regardhuang.blogspot.com/2015/05/speakable-article9.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Thu, 07 May 2015 23:02:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-621447091511755456</guid>
+<description>眼前一碗麻醬麵，不知道是天氣熱還是麵條燙口，我吃得特別慢，多出來的時間，我的視線開始游移，身旁一位老哥也吃麻醬麵，他也吃得慢，但原因不同，立著小平板，戴著鐵三角，看片子呢。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/05/speakable-article9.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A09LookByEars/A09-look-by-ears-%E7%94%A8%E8%80%B3%E6%9C%B5%E7%9C%8B.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:46:19.560+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A09LookByEars/A09-look-by-ears-%E7%94%A8%E8%80%B3%E6%9C%B5%E7%9C%8B.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>用耳朵看會比眼睛看見的多更多，然而，多的是困擾還是幫助？</itunes:subtitle>
-<itunes:summary>眼前一碗麻醬麵，不知道是天氣熱還是麵條燙口，我吃得特別慢，多出來的時間，我的視線開始游移，身旁一位老哥也吃麻醬麵，他也吃得慢，但原因不同，立著小平板，戴著鐵三角，看片子呢！</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A09LookByEars/A09-look-by-ears-%E7%94%A8%E8%80%B3%E6%9C%B5%E7%9C%8B.mp3" length="4900319" type="audio/mpeg" />
-<itunes:duration>8:04</itunes:duration>
+<itunes:subtitle>眼前一碗麻醬麵，不知道是天氣熱還是麵條燙口，我吃得特別慢，多出來的時間，我的視線開始游移，身旁一位老哥也吃麻醬麵，他也吃得慢，但原因不同，立著小平板，戴著鐵三角，看片子呢。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>眼前一碗麻醬麵，不知道是天氣熱還是麵條燙口，我吃得特別慢，多出來的時間，我的視線開始游移，身旁一位老哥也吃麻醬麵，他也吃得慢，但原因不同，立著小平板，戴著鐵三角，看片子呢。</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>散文: 消失的戲院</title>
-<link>https://regardhuang.blogspot.com/2015/05/blog-post_6.html</link>
-<guid>https://regardhuang.blogspot.com/2015/05/blog-post_6.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Wed, 6 May 2015 13:24:02 PST</pubDate>
-<description>好像是昨天，我記得在那個空間裡，唯一發出聲音的人是講台上的老師，其他人在做什麼呢？聽課的聽課、聽歌的聽歌，抄筆記的抄筆記，看窗外的看窗外，不管是哪一種專注，都符合安靜不影響他人，也算是某種理想的課堂秩序？突然間，開始亂序。</description>
+<title>有聲: 消失的戲院</title>
+<link>https://regardhuang.blogspot.com/2015/05/speakable-article8.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Tue, 05 May 2015 22:58:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-954869439725092141</guid>
+<description>好像是昨天，我記得在那個空間裡，唯一發出聲音的人是講台上的老師，其他人在做什麼呢？聽課的聽課、聽歌的聽歌，抄筆記的抄筆記，看窗外的看窗外，不管是哪一種專注，都符合安靜不影響他人，也算是某種理想的課堂秩序？突然間，開始亂序。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/05/speakable-article8.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A08Theater/A08-theater-%E6%B6%88%E5%A4%B1%E7%9A%84%E6%88%B2%E9%99%A2.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:46:10.120+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A08Theater/A08-theater-%E6%B6%88%E5%A4%B1%E7%9A%84%E6%88%B2%E9%99%A2.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>路口拐彎一看，戲院不見了，取而代之的是一座豪華商旅…</itunes:subtitle>
+<itunes:subtitle>好像是昨天，我記得在那個空間裡，唯一發出聲音的人是講台上的老師，其他人在做什麼呢？聽課的聽課、聽歌的聽歌，抄筆記的抄筆記，看窗外的看窗外，不管是哪一種專注，都符合安靜不影響他人，也算是某種理想的課堂秩序？突然間，開始亂序。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
 <itunes:summary>好像是昨天，我記得在那個空間裡，唯一發出聲音的人是講台上的老師，其他人在做什麼呢？聽課的聽課、聽歌的聽歌，抄筆記的抄筆記，看窗外的看窗外，不管是哪一種專注，都符合安靜不影響他人，也算是某種理想的課堂秩序？突然間，開始亂序。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A08Theater/A08-theater-%E6%B6%88%E5%A4%B1%E7%9A%84%E6%88%B2%E9%99%A2.mp3" length="5978873" type="audio/mpeg" />
-<itunes:duration>9:52</itunes:duration>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>散文: 突然敢</title>
-<link>https://regardhuang.blogspot.com/2015/05/blog-post_4.html</link>
-<guid>https://regardhuang.blogspot.com/2015/05/blog-post_4.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Mon, 4 May 2015 13:24:02 PST</pubDate>
-<description>說自己的秘密，對心儀的某某表白，對討厭的主管表態，宣洩自己的內心話，是個大冒險；吃自己不會唸的食物，對許多人來說壓力不小，倒是這年頭把食品翻過來閱讀標示，是一種膽識，恐怕也有一大串不會唸的成份，符合這項冒險。還有一種可能你很熟悉的冒險，一種你知道但不見得會遇到的冒險：突然敢。</description>
+<title>有聲: 突然敢</title>
+<link>https://regardhuang.blogspot.com/2015/05/speakable-article7.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Sun, 03 May 2015 22:53:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-3727774973820717967</guid>
+<description>說自己的秘密，對心儀的某某表白，對討厭的主管表態，宣洩自己的內心話，是個大冒險；吃自己不會唸的食物，對許多人來說壓力不小，倒是這年頭把食品翻過來閱讀標示，是一種膽識，恐怕也有一大串不會唸的成份，符合這項冒險。還有一種可能你很熟悉的冒險，一種你知道但不見得會遇到的冒險：突然敢。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/05/speakable-article7.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A07Dare/A07-dare-%E7%AA%81%E7%84%B6%E6%95%A2.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:45:24.346+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A07Dare/A07-dare-%E7%AA%81%E7%84%B6%E6%95%A2.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>生活中最大的冒險是什麼？</itunes:subtitle>
+<itunes:subtitle>說自己的秘密，對心儀的某某表白，對討厭的主管表態，宣洩自己的內心話，是個大冒險；吃自己不會唸的食物，對許多人來說壓力不小，倒是這年頭把食品翻過來閱讀標示，是一種膽識，恐怕也有一大串不會唸的成份，符合這項冒險。還有一種可能你很熟悉的冒險，一種你知道但不見得會遇到的冒險：突然敢。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
 <itunes:summary>說自己的秘密，對心儀的某某表白，對討厭的主管表態，宣洩自己的內心話，是個大冒險；吃自己不會唸的食物，對許多人來說壓力不小，倒是這年頭把食品翻過來閱讀標示，是一種膽識，恐怕也有一大串不會唸的成份，符合這項冒險。還有一種可能你很熟悉的冒險，一種你知道但不見得會遇到的冒險：突然敢。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A07Dare/A07-dare-%E7%AA%81%E7%84%B6%E6%95%A2.mp3" length="3803032" type="audio/mpeg" />
-<itunes:duration>6:15</itunes:duration>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>散文: 新口味</title>
-<link>https://regardhuang.blogspot.com/2015/04/blog-post_30.html</link>
-<guid>https://regardhuang.blogspot.com/2015/04/blog-post_30.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Thu, 30 Apr 2015 13:24:02 PST</pubDate>
-<description>店員說：「你好，今天想喝點什麼？」這句話對他來說很自然，對我而言很突然，因為我不算什麼常客，心裡滿滿的綠茶期待被這句話噎住，心想他不認識我，那只是某種友善的親切感，做生意嘛！</description>
+<title>有聲: 新口味</title>
+<link>https://regardhuang.blogspot.com/2015/04/speakable-article6.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Wed, 29 Apr 2015 22:45:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-2215164069094873295</guid>
+<description>店員說：「你好，今天想喝點什麼？」這句話對他來說很自然，對我而言很突然，因為我不算什麼常客，心裡滿滿的綠茶期待被這句話噎住，心想他不認識我，那只是某種友善的親切感，做生意嘛。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/04/speakable-article6.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A06NewFlavor/A06-new-flavor-%E6%96%B0%E5%8F%A3%E5%91%B3.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:45:12.804+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A06NewFlavor/A06-new-flavor-%E6%96%B0%E5%8F%A3%E5%91%B3.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>一杯甜甜的清涼，不僅暑意全消，暫時忘卻含糖飲料對健康的影響倒也痛快</itunes:subtitle>
-<itunes:summary>店員說：「你好，今天想喝點什麼？」這句話對他來說很自然，對我而言很突然，因為我不算什麼常客，心裡滿滿的綠茶期待被這句話噎住，心想他不認識我，那只是某種友善的親切感，做生意嘛！</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A06NewFlavor/A06-new-flavor-%E6%96%B0%E5%8F%A3%E5%91%B3.mp3" length="4828318" type="audio/mpeg" />
-<itunes:duration>7:57</itunes:duration>
+<itunes:subtitle>店員說：「你好，今天想喝點什麼？」這句話對他來說很自然，對我而言很突然，因為我不算什麼常客，心裡滿滿的綠茶期待被這句話噎住，心想他不認識我，那只是某種友善的親切感，做生意嘛。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>店員說：「你好，今天想喝點什麼？」這句話對他來說很自然，對我而言很突然，因為我不算什麼常客，心裡滿滿的綠茶期待被這句話噎住，心想他不認識我，那只是某種友善的親切感，做生意嘛。</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>散文: 靈魂綁定</title>
-<link>https://regardhuang.blogspot.com/2015/03/blog-post_23.html</link>
-<guid>https://regardhuang.blogspot.com/2015/03/blog-post_23.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Mon, 23 Mar 2015 13:24:02 PST</pubDate>
-<description>有時候訂單地址很遠，遠到有些模糊難辨，他像個上班族，下了班開著車，也就只是駕駛一輛交通工具而已，沒有明確的方向前進著。</description>
+<title>有聲: 靈魂綁定</title>
+<link>https://regardhuang.blogspot.com/2015/03/speakable-article5.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Sun, 22 Mar 2015 22:40:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-959907246878827756</guid>
+<description>有時候訂單地址很遠，遠到有些模糊難辨，他像個上班族，下了班開著車，也就只是駕駛一輛交通工具而已，沒有明確的方向前進著。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2015/03/speakable-article5.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A05Soulbound/A05-soulbound-%E9%9D%88%E9%AD%82%E7%B6%81%E5%AE%9A.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:45:00.979+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A05Soulbound/A05-soulbound-%E9%9D%88%E9%AD%82%E7%B6%81%E5%AE%9A.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>每個人活在相同的世界裡，卻看見不同的天地</itunes:subtitle>
+<itunes:subtitle>有時候訂單地址很遠，遠到有些模糊難辨，他像個上班族，下了班開著車，也就只是駕駛一輛交通工具而已，沒有明確的方向前進著。</itunes:subtitle>
 <itunes:author>雨木</itunes:author>
 <itunes:summary>有時候訂單地址很遠，遠到有些模糊難辨，他像個上班族，下了班開著車，也就只是駕駛一輛交通工具而已，沒有明確的方向前進著。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A05Soulbound/A05-soulbound-%E9%9D%88%E9%AD%82%E7%B6%81%E5%AE%9A.mp3" length="4154036" type="audio/mpeg" />
-<itunes:duration>6:50</itunes:duration>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>散文: 霜淇淋</title>
-<link>https://regardhuang.blogspot.com/2014/08/blog-post.html</link>
-<guid>https://regardhuang.blogspot.com/2014/08/blog-post.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Wed, 27 Aug 2014 13:24:02 PST</pubDate>
-<description>耳聞路人如此說道：「暑假都快結束了，現在才推出，能賣多久呢？」我心想，或許時間遲了，的確賣不久；或許還可以賣上一段時間，這年頭，十二月都有颱風，天曉得夏天會熱多久呢？我買了一枝綜合口味，果然名符其實，吃出五味雜陳。</description>
-<itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>巷子裡的超市與便利店，相繼推出夏季商品──霜淇淋</itunes:subtitle>
-<itunes:summary>耳聞路人如此說道：「暑假都快結束了，現在才推出，能賣多久呢？」我心想，或許時間遲了，的確賣不久；或許還可以賣上一段時間，這年頭，十二月都有颱風，天曉得夏天會熱多久呢？我買了一枝綜合口味，果然名符其實，吃出五味雜陳。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A01IceCream/A01-ice-cream-%E9%9C%9C%E6%B7%87%E6%B7%8B.mp3" length="3441237" type="audio/mpeg" />
-<itunes:duration>5:38</itunes:duration>
-</item>
-<item>
-<title>散文: 有過</title>
-<link>https://regardhuang.blogspot.com/2014/05/blog-post.html</link>
-<guid>https://regardhuang.blogspot.com/2014/05/blog-post.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Sat, 24 May 2014 13:23:12 PST</pubDate>
-<description>近日觀賞#39;the bridge of Madison county#39;，使我想起過去的點點比較多，頓悟未來的種種比較少，然而，點點滴滴，林林總總；多多少少，少少多多，我的思緒紊亂，作一篇抒發，題為「有過」，徘徊在「擁有過」還是「有過錯」，盼能理出個亂中有序。</description>
-<itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>如此確切之感，惟有一生一次</itunes:subtitle>
-<itunes:summary>近日觀賞#39;the bridge of Madison county#39;，使我想起過去的點點比較多，頓悟未來的種種比較少，然而，點點滴滴，林林總總；多多少少，少少多多，我的思緒紊亂，作一篇抒發，題為「有過」，徘徊在「擁有過」還是「有過錯」，盼能理出個亂中有序。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A04Had/A04-had-%E6%9C%89%E9%81%8E.mp3" length="8328952" type="audio/mpeg" />
-<itunes:duration>13:47</itunes:duration>
-</item>
-<item>
-<title>散文: 伊朗咖啡</title>
-<link>https://regardhuang.blogspot.com/2013/02/blog-post.html</link>
-<guid>https://regardhuang.blogspot.com/2013/02/blog-post.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
+<title>有聲: 霜淇淋</title>
+<link>https://regardhuang.blogspot.com/2014/08/speakable-article4.html</link>
+<category>podcast01</category>
 <author>h.peichieh@gmail.com (雨木)</author>
-<pubDate>Thu, 28 Feb 2013 13:23:12 PST</pubDate>
-<description>幾年前的某一天，沒來由地一個念頭湧了上來：世界上有這麼多種主義，我只知道三民主義，而且還是因為教科書的關係，這樣似乎不太對勁。</description>
+<pubDate>Tue, 26 Aug 2014 22:33:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-338426566277704231</guid>
+<description>耳聞路人如此說道：「暑假都快結束了，現在才推出，能賣多久呢？」我心想，或許時間遲了，的確賣不久；或許還可以賣上一段時間，這年頭，十二月都有颱風，天曉得夏天會熱多久呢？我買了一枝綜合口味，果然名符其實，吃出五味雜陳。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2014/08/speakable-article4.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A01IceCream/A01-ice-cream-%E9%9C%9C%E6%B7%87%E6%B7%8B.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:44:25.932+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A01IceCream/A01-ice-cream-%E9%9C%9C%E6%B7%87%E6%B7%8B.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>伊朗沒在說阿拉伯語…</itunes:subtitle>
-<itunes:summary>幾年前的某一天，沒來由地一個念頭湧了上來：世界上有這麼多種主義，我只知道三民主義，而且還是因為教科書的關係，這樣似乎不太對勁。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A03IranCoffee/A03-iran-coffee-%E4%BC%8A%E6%9C%97%E5%92%96%E5%95%A1.mp3" length="4957558"  type="audio/mpeg" />
-<itunes:duration>8:10</itunes:duration>
+<itunes:subtitle>耳聞路人如此說道：「暑假都快結束了，現在才推出，能賣多久呢？」我心想，或許時間遲了，的確賣不久；或許還可以賣上一段時間，這年頭，十二月都有颱風，天曉得夏天會熱多久呢？我買了一枝綜合口味，果然名符其實，吃出五味雜陳。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>耳聞路人如此說道：「暑假都快結束了，現在才推出，能賣多久呢？」我心想，或許時間遲了，的確賣不久；或許還可以賣上一段時間，這年頭，十二月都有颱風，天曉得夏天會熱多久呢？我買了一枝綜合口味，果然名符其實，吃出五味雜陳。</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
 <item>
-<title>散文: 美工刀</title>
-<link>https://regardhuang.blogspot.com/2011/06/blog-post.html</link>
-<guid>https://regardhuang.blogspot.com/2011/06/blog-post.html</guid>
-<itunes:category text="Society &amp; Culture">
-<itunes:category text="Personal Journals" />
-</itunes:category>
-<pubDate>Sat, 18 Jun 2011 13:23:12 PST</pubDate>
-<description>我是一個使用物品很文雅的人，純粹是習慣，與本身的教養無關。物品會用舊、會耗損，我嘗試讓那些使用過的現象與歲月綁在一起，而不是與我產生關聯。</description>
+<title>有聲: 有過</title>
+<link>https://regardhuang.blogspot.com/2014/05/speakable-article3.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Fri, 23 May 2014 22:24:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-6702356300917856715</guid>
+<description>近日觀賞《麥迪遜之橋》the bridge of Madison county，使我想起過去的點點比較多，頓悟未來的種種比較少，然而，點點滴滴，林林總總；多多少少，少少多多，我的思緒紊亂，作一篇抒發，題為「有過」，徘徊在「擁有過」還是「有過錯」，盼能理出個亂中有序。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2014/05/speakable-article3.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A04Had/A04-had-%E6%9C%89%E9%81%8E.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:44:13.392+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A04Had/A04-had-%E6%9C%89%E9%81%8E.mp3" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:subtitle>從這裡到那裡，總是有些東西靜靜的等著我們</itunes:subtitle>
-<itunes:summary>我是一個使用物品很文雅的人，純粹是習慣，與本身的教養無關。物品會用舊、會耗損，我嘗試讓那些使用過的現象與歲月綁在一起，而不是與我產生關聯。</itunes:summary>
-<itunes:keywords>雨木散文故事</itunes:keywords>
-<enclosure url="https://archive.org/download/A02Knife/A02-knife-%E7%BE%8E%E5%B7%A5%E5%88%80.mp3" length="7333913" type="audio/mpeg" />
-<itunes:duration>12:08</itunes:duration>
+<itunes:subtitle>近日觀賞《麥迪遜之橋》the bridge of Madison county，使我想起過去的點點比較多，頓悟未來的種種比較少，然而，點點滴滴，林林總總；多多少少，少少多多，我的思緒紊亂，作一篇抒發，題為「有過」，徘徊在「擁有過」還是「有過錯」，盼能理出個亂中有序。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>近日觀賞《麥迪遜之橋》the bridge of Madison county，使我想起過去的點點比較多，頓悟未來的種種比較少，然而，點點滴滴，林林總總；多多少少，少少多多，我的思緒紊亂，作一篇抒發，題為「有過」，徘徊在「擁有過」還是「有過錯」，盼能理出個亂中有序。</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
 </item>
+<item>
+<title>有聲: 伊朗咖啡</title>
+<link>https://regardhuang.blogspot.com/2013/02/speakable-article2.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Wed, 27 Feb 2013 21:15:00 PST</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-6907033111661612545</guid>
+<description>幾年前的某一天，沒來由地一個念頭湧了上來：世界上有這麼多種主義，我只知道三民主義，而且還是因為教科書的關係，這樣似乎不太對勁。&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2013/02/speakable-article2.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A03IranCoffee/A03-iran-coffee-%E4%BC%8A%E6%9C%97%E5%92%96%E5%95%A1.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:44:02.353+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A03IranCoffee/A03-iran-coffee-%E4%BC%8A%E6%9C%97%E5%92%96%E5%95%A1.mp3" type="audio/mpeg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>幾年前的某一天，沒來由地一個念頭湧了上來：世界上有這麼多種主義，我只知道三民主義，而且還是因為教科書的關係，這樣似乎不太對勁。</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>幾年前的某一天，沒來由地一個念頭湧了上來：世界上有這麼多種主義，我只知道三民主義，而且還是因為教科書的關係，這樣似乎不太對勁。</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
+</item>
+<item>
+<title>有聲: 美工刀</title>
+<link>https://regardhuang.blogspot.com/2011/06/speakable-article1.html</link>
+<category>podcast01</category>
+<author>h.peichieh@gmail.com (雨木)</author>
+<pubDate>Fri, 17 Jun 2011 21:24:00 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-4419309678797515130.post-990521645293509070</guid>
+<description>我是一個使用物品很文雅的人，純粹是習慣，與本身的教養無關。物品會用舊、會耗損，我嘗試讓那些使用過的現象與歲月綁在一起，而不是與我產生關聯…&lt;br&gt;&lt;a href="https://regardhuang.blogspot.com/2011/06/speakable-article1.html#more"&gt;&lt;/a&gt;</description>
+<enclosure url="https://archive.org/download/A02Knife/A02-knife-%E7%BE%8E%E5%B7%A5%E5%88%80.mp3" length="0" type="audio/mpeg" />
+<atom:updated xmlns:atom="http://www.w3.org/2005/Atom">2019-03-03T14:43:33.875+08:00</atom:updated>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="https://archive.org/download/A02Knife/A02-knife-%E7%BE%8E%E5%B7%A5%E5%88%80.mp3" type="audio/mpeg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>我是一個使用物品很文雅的人，純粹是習慣，與本身的教養無關。物品會用舊、會耗損，我嘗試讓那些使用過的現象與歲月綁在一起，而不是與我產生關聯…</itunes:subtitle>
+<itunes:author>雨木</itunes:author>
+<itunes:summary>我是一個使用物品很文雅的人，純粹是習慣，與本身的教養無關。物品會用舊、會耗損，我嘗試讓那些使用過的現象與歲月綁在一起，而不是與我產生關聯…</itunes:summary>
+<itunes:keywords>雨木,podcast</itunes:keywords>
+</item>
+<copyright>雨木散文故事 2019</copyright>
+<media:credit role="author">雨木</media:credit>
+<media:rating>nonadult</media:rating>
+<media:description type="plain">有聲文章</media:description>
 </channel>
 </rss>
