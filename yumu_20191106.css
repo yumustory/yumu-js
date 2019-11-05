@@ -20,4 +20,4 @@ hr.yumu{margin:1em 0;border:0;height:1px;background-image:linear-gradient(to rig
 /*分頁*/
 .article-pagi{display:inline-block}.article-pagi a{color:#ffe699;float:left;padding:4px 8px}.article-pagi a.active{background-color:#ffe699;color:#820000;border:1px solid #ffe699;border-radius:5px}.article-pagi a:hover:not(.active){border:1px solid #ffe699;border-radius:5px}
 /*三欄*/
-.col,.sitemap{box-sizing:border-box}.col{float:left;width:33.33%;padding:1em}.sitemap:after{content:"";display:table;clear:both}@media screen and (max-width:400px){.col{width:100%}}@media screen and (min-width:401px) and (max-width:800px){.col{width:50%}.col:last-child{width:100%}}
+.col,.sitemap{box-sizing:border-box}.col{float:left;width:33.33%;padding:.5em;font-size:.7em}.sitemap:after{content:"";display:table;clear:both}@media screen and (max-width:400px){.col{width:100%}}@media screen and (min-width:401px) and (max-width:800px){.col{width:50%}.col:last-child{width:100%}}
