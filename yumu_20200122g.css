@@ -25,7 +25,7 @@ hr.yumu{margin:1em 0;border:0;height:1px;background-image:linear-gradient(to rig
 /*三欄*/
 .col,.sitemap{box-sizing:border-box}.col{float:left;width:33.33%;padding:.5em;font-size:.7em}.sitemap:after{content:"";display:table;clear:both}@media screen and (max-width:400px){.col{width:100%}}@media screen and (min-width:401px) and (max-width:800px){.col{width:50%}.col:last-child{width:100%}}
 
-.owl-carousel .item{width:160px;background:#4d4d4d;height:320px;border-radius:0 0 6px 6px}.item-info{position:absolute;width:160px;bottom:.3em;text-indent:.5em;font-size:.7em}.item-info a{padding-left:.5em}.trailer-desc,.trailer-sdesc,.yumuimg-desc{background-image:linear-gradient(150deg,#4d4d4d 0,#2a2a2a 64%,#4d4d4d 90%)}.trailer-rdesc{background-image:linear-gradient(150deg,red 0,#900 64%,red 90%)}.trailer-sdesc{font-size:.6em}
+.owl-carousel .item{width:160px;background:#4d4d4d;height:320px;border-radius:0 0 6px 6px}.item-info{position:absolute;width:160px;bottom:.3em;text-indent:.5em;font-size:.7em;line-height:1.5em}.item-info a{padding-left:.5em}.trailer-desc,.trailer-sdesc,.yumuimg-desc{background-image:linear-gradient(150deg,#4d4d4d 0,#2a2a2a 64%,#4d4d4d 90%)}.trailer-rdesc{background-image:linear-gradient(150deg,red 0,#900 64%,red 90%)}.trailer-sdesc{font-size:.6em}
 
 /**
  * Owl Carousel v2.3.4
