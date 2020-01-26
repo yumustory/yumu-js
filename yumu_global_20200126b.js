@@ -9,10 +9,6 @@ async: true
 },
 h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
 })(document);
-/*! modaal carousel IMDB*/
-$(".trailer-box").modaal({type:"video"}),$(".gallery").modaal({type:"image"});
-$(".owl-carousel").owlCarousel({loop:!1,margin:3,nav:!0,responsiveClass:!0,responsive:{0:{items:2,nav:!1},560:{items:3},720:{items:4}}});
-(function(a,b,c){var d,e=a.getElementsByTagName(b)[0];a.getElementById(c)||(d=a.createElement(b),d.id=c,d.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js",e.parentNode.insertBefore(d,e))})(document,"script","imdb-rating-api");
 /*! 訂閱*/
 !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/dfd0a84ddb89c0a45dedce6c7/12fbcc967bcd8b1a2bd389e52.js");
 /*! 分頁*/
