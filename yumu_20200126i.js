@@ -26,5 +26,3 @@ h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bw
 !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/dfd0a84ddb89c0a45dedce6c7/12fbcc967bcd8b1a2bd389e52.js");
 /*! 分頁*/
 jQuery(document).ready(function($){ $(".yumutab-label").hide(); $("ul.yumutabs-menu li:first a").addClass("yumutab-active").show(); $(".yumutab-label:first").show(); $("ul.yumutabs-menu li a").click(function() { $("ul.yumutabs-menu li a").removeClass("yumutab-active a"); $(this).addClass("yumutab-active"); $(".yumutab-label").hide(); var activeTab = $(this).attr("href"); $(activeTab).fadeIn(); return false; }); });
-/*! IMDb*/
-(function(a,b,c){var d,e=a.getElementsByTagName(b)[0];a.getElementById(c)||(d=a.createElement(b),d.id=c,d.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js",e.parentNode.insertBefore(d,e))})(document,"script","imdb-rating-api");
