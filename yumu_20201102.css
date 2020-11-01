@@ -11,7 +11,7 @@
 /*註解*/
 .ttp{position:relative}@media (max-width:600px){.ttp2{display:none}}.ttp2{text-align:center;border:5px solid #000;padding:5px 2px;border-radius:5px;box-shadow:5px 5px 20px rgb(238,238,238,.5);background:#fff;width:80px;height:auto;position:absolute;top:-130px;left:0;visibility:hidden;z-index:901}.ttp:hover .ttp2{visibility:visible}
 /*封面*/
-.yumu-cover{box-shadow:10px 10px 18px #000;}.frameout{background-image:linear-gradient(160deg,#0c0c0c,#111,#151514,#181818,#1b1b1b);border-radius:2%;border:.6px solid #111;box-shadow:inset 13px 2px 19px 0 rgba(0,0,0,.3),inset 0 15px 6px 0 rgba(0,0,0,.22);margin:2em 15%;padding:7% 9% 5%}
+.yumu-cover{box-shadow:10px 10px 18px #000;}.frameout{background-image:linear-gradient(160deg,#0c0c0c,#111,#151514,#181818,#1b1b1b);border-radius:2%;border:.6px solid #111;box-shadow:inset 13px 2px 19px 0 rgba(0,0,0,.3),inset 0 15px 6px 0 rgba(0,0,0,.22);margin:3em 0 2em;padding:8% 16% 6%;text-align:center}
 /*標題*/
 .tete-lr{display:-webkit-box;display:flex;-webkit-box-align:center;align-items:center;width:100%}.tete-l{-webkit-box-flex:1;flex:1}.tete-r{align-self:center}
 /*月報*/
