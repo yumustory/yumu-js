@@ -16,8 +16,8 @@ c.prototype.toogle=function(){var a=this;a.core.s.toogleThumb&&(a.core.$outer.ad
 $.bigfoot({
 actionOriginalFN: "hide"
 });
-/*! 佈告-月報*/
-$(document).ready(function(a){a(".yumutab-label").hide();a("ul.yumutabs-menu li:first a").addClass("yumutab-active").show();a(".yumutab-label:first").show();a("ul.yumutabs-menu li a").click(function(){a("ul.yumutabs-menu li a").removeClass("yumutab-active a");a(this).addClass("yumutab-active");a(".yumutab-label").hide();var b=a(this).attr("href");a(b).fadeIn();return!1})});$(document).ready(function(){$(".tshow").click(function(){$(".tposter,.tbig").fadeToggle("slow")})});
+/*! 懸浮海報*/
+$(document).ready(function(){$(".tshow").click(function(){$(".tposter,.tbig").fadeToggle("slow")})});
 /*! 按鈕*/
 var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,b){a.raw=b;return a};$jscomp.arrayIteratorImpl=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)};
 function createRipple(a){var b=a.currentTarget,c=document.createElement("span"),d=Math.max(b.clientWidth,b.clientHeight),e=d/2;c.style.width=c.style.height=d+"px";c.style.left=a.clientX-b.offsetLeft-e+"px";c.style.top=a.clientY-b.offsetTop-e+"px";c.classList.add("ripple");(a=b.getElementsByClassName("ripple")[0])&&a.remove();b.appendChild(c)}
