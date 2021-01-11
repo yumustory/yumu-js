@@ -18,10 +18,6 @@ actionOriginalFN: "hide"
 });
 /*! 懸浮海報*/
 $(document).ready(function(){$(".tshow").click(function(){$(".tposter,.tbig").fadeToggle("slow")})});
-/*! 按鈕*/
-var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,b){a.raw=b;return a};$jscomp.arrayIteratorImpl=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)};
-function createRipple(a){var b=a.currentTarget,c=document.createElement("span"),d=Math.max(b.clientWidth,b.clientHeight),e=d/2;c.style.width=c.style.height=d+"px";c.style.left=a.clientX-b.offsetLeft-e+"px";c.style.top=a.clientY-b.offsetTop-e+"px";c.classList.add("ripple");(a=b.getElementsByClassName("ripple")[0])&&a.remove();b.appendChild(c)}
-for(var buttons=document.getElementsByTagName("button"),$jscomp$iter$0=$jscomp.makeIterator(buttons),$jscomp$key$button=$jscomp$iter$0.next();!$jscomp$key$button.done;$jscomp$key$button=$jscomp$iter$0.next()){var button=$jscomp$key$button.value;button.addEventListener("click",createRipple)};
 /*! IMDB*/
 (function(a,b,c){var d,e=a.getElementsByTagName(b)[0];a.getElementById(c)||(d=a.createElement(b),d.id=c,d.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js",e.parentNode.insertBefore(d,e))})(document,"script","imdb-rating-api");
 /*! fontawesome5*/
