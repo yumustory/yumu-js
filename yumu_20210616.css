@@ -9,13 +9,13 @@
 /*封面*/
 .yumu-cover{box-shadow:10px 10px 18px #000;}.frameout{background-image:linear-gradient(160deg,#0c0c0c,#111,#151514,#181818,#1b1b1b);border-radius:2%;border:.6px solid #111;box-shadow:inset 13px 2px 19px 0 rgba(0,0,0,.3),inset 0 15px 6px 0 rgba(0,0,0,.22);margin:3em 0 2em;padding:8% 16% 6%;text-align:center}
 /*標題*/
-.tete-lr{display:-webkit-box;display:flex;-webkit-box-align:center;align-items:center;width:100%}.tete-l{-webkit-box-flex:1;flex:1}.tete-r{align-self:center}
+.tete-lr{display:-webkit-box;display:flex;-webkit-box-align:center;align-items:center;width:100%}.tete-l{-webkit-box-flex:1;flex:1}.tete-r{align-self:center}.bookt{margin-left:5px;border:solid 1px white}
 /*月報*/
 .tboxinner{position:relative}.tposter{position:absolute;left:0}.tbig,.tshow{position:absolute;bottom:10%;background:rgba(255,255,255,.1);color:#bbb}.tshow{right:0;padding-right:6%;cursor:pointer}.tbig{left:0;padding-left:3%;pointer-events:none}
 /*相關*/
 .relative-review{display:flex;height:120px;width:98%;background:linear-gradient(80deg,transparent 50px,#84394f 10%,transparent 84%)}.relative-review img{border-radius:60px;box-shadow:8px 2px 5px #000}.relative-title{margin:auto 1.2em}.relative-monthly{display:flex;height:50px;width:98%;background:linear-gradient(to right,#84394f 0,transparent 84%)}.monthly-title{margin:auto 1em}
 /*頁碼*/
-.article-pagi{display:inline-block}.article-pagi a{color:#ffe699;float:left;padding:4px 8px}.article-pagi a.active{background-color:#ffe699;color:#820000;border:1px solid #ffe699;border-radius:5px}.article-pagi a:hover:not(.active){border:1px solid #ffe699;border-radius:5px}
+.article-pagi{display:inline-block}.article-pagi a{color:#ffe699;float:left;margin-right:.2em;padding:2px 8px}.article-pagi a.active{background-color:#ffe699;color:#000;box-sizing:border-box;border-radius:10px}.article-pagi a:hover:not(.active){background-color:#4d4d4d;color:#dd4132;border-radius:10px}
 /*三欄*/
 .col,.sitemap{box-sizing:border-box}.col{float:left;width:33.33%;padding:.5em;font-size:.7em}.sitemap:after{content:"";display:table;clear:both}@media screen and (max-width:400px){.col{width:100%}}@media screen and (min-width:401px) and (max-width:800px){.col{width:50%}.col:last-child{width:100%}}
 /*註腳*/
