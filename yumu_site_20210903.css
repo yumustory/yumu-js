@@ -1,5 +1,5 @@
 /*工商*/
-.yumuad{width:300px;height:250px}
+.yumuad{width:300px;height:250px}.hot-posters{width:300px;height:420px}.hot-posters a{display:inline-block;margin-right:1em;line-height:2em;float:left}.grid a:nth-child(6),.grid a:nth-child(9),.hot-posters a:nth-child(3){margin-right:0}
 /*首頁三欄*/
 .yumucard-wrapper{list-style:none;padding:0;margin:1em 0 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(16em,1fr));grid-gap:1.5em;max-width:1280px;color:#000;text-align:center}.yumucard-wrapper:last-child{margin-bottom:0}.yumucard-wrapper img{border-radius:.5em .5em 0 0;width:100%;object-fit:cover;max-height:max(10em,30vh);aspect-ratio:2/1;mix-blend-mode:var(--yumucard-blend-mode);filter:grayscale(1) brightness(1.2)}.yumucard{--yumucard-gradient:rgba(0, 0, 0, 0.8);--yumucard-gradient:198deg,orange, transparent;--yumucard-blend-mode:multiply;background-color:#fff;border-radius:.5em;box-shadow:.05em .1em .3em -.03em rgba(255,255,255,.45);background-image:linear-gradient(var(--yumucard-gradient),white max(15em,27vh));overflow:hidden}
 /*樹狀V2*/
