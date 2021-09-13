@@ -11,7 +11,7 @@
 /*漸層框*/
 .tboxinner{position:relative}.tposter{position:absolute;left:0}.tbig,.tshow{position:absolute;bottom:10%;background:rgba(255,255,255,.1);color:#bbb}.tshow{right:0;padding-right:6%;cursor:pointer}.tbig{left:0;padding-left:3%;pointer-events:none}
 /*相關*/
-.relative-review{display:flex;height:120px;width:98%;font-size:2vmin;background:linear-gradient(80deg,transparent 50px,#84394f 10%,transparent 84%)}.relative-review img{min-width:80px;border-radius:60px;box-shadow:8px 2px 5px #000}.relative-title{margin:auto 1.4em}.relative-monthly{display:flex;height:50px;width:98%;background:linear-gradient(to right,#84394f 0,transparent 84%)}.monthly-title{margin:auto 1em}
+.relative-review{display:flex;height:120px;width:98%;font-size:1.6vmin;line-height:1.6;clip-path:polygon(65% 11%,100% 0,95% 71%,100% 93%,70% 98%,51% 90%,20% 100%,0 100%,0 0,21% 0);background:linear-gradient(80deg,transparent 50px,#84394f 10%,transparent 84%)}.relative-review img{min-width:80px;border-radius:60px;box-shadow:8px 2px 5px #000}.relative-title{margin:auto 1.4em}.relative-monthly{display:flex;height:50px;width:98%;background:linear-gradient(to right,#84394f 0,transparent 84%)}.monthly-title{margin:auto 1em}
 /*頁碼*/
 .article-pagi{display:inline-block}.article-pagi a{color:#ffe699;float:left;margin-right:.2em;padding:2px 8px}.article-pagi a.active{background-color:#ffe699;color:#000;box-sizing:border-box;border-radius:10px}.article-pagi a:hover:not(.active){background-color:#4d4d4d;color:#dd4132;border-radius:10px}
 /*三欄*/
