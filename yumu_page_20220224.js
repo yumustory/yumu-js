@@ -17,6 +17,7 @@ $(".extraimgs").slideToggle("slow",function(){$(this).is(":visible")?i.text("no 
 // 預告大圖
 $(".tshow").click(function(){$(".tposter,.tbig").fadeToggle("slow")});
 // 打賞
+$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://core.newebpay.com/EPG/donate_yumustory/M9bI09">小額打賞 <i class="fa-solid fa-heart fa-beat" style="color: #6667AB;"></i> 小額大心</a>' );
 $(".ymjko").html( '<a href="https://blogger.googleusercontent.com/img/a/AVvXsEjEYDAuGUs6LSS5BL0LneKhkFjLlz1FegH_YHpidBv6qhXxaIcDWymyRMUuqC2Pk5GGjBHYTc4tTJq4FKw-KuAEpkVAWmNGKXUX1QlBor71uT5VuEzinDvRkXWC_-HGJA_scooxtQToem77DA_R-fmbVRkrq2VoNrWg27IZLKmME8sHRk0pfEegnAOarQ=s0-e14" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEiRomiW51cjgqXpemFIMnlnWr9WV79LSxnCYGRHed4vYfLTEfJ3QjYKr-3dyt5AGdHBgz1ZmEnFJ8HOBnrNJafNcBGQ6kO29EhK-WjLjFxgLFm-_va_A3tRcfJevqWLPAhCRv1EhUxQ4_Ygj5Jf4F0Oz8X8faoJKkmiILKyQePHBXY4-tzjRfUYdo8BxQ=s0-e14"></a>' );
 $(".ymlinepay").html( '<a href="https://blogger.googleusercontent.com/img/a/AVvXsEgqPGjZMsA_xb-W2xo74V2HN52-0Z8dX-8vtVi1ctTksPqXdKklATwq2eoiwzSV2pr-le6e52xt-hgHtMYjiuXbUBmE0MR8Rz8MOFZ7BOQ1gih1YmVR265-3FNJhTQGJ4CV2VCFETmE7T0uQVVWleGzQ4vWiTKTBc8J5DkbvvUlbWpofv4coeVX3gRevg=s0-e14" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhv5hr_91zMScvVcvvLGQAfPe85QsWgXm60icVXyynZ_B7vuqEwLtPMlzNA8hN8HlDalopGdqeovDCpn1uL-C-2NEX18qDfSFEnLirQwW3NANdn1Q3YqUn4_JgdyexGDaWAw8QnALwzccpKbowW7_jBUInkHQv_01pra9l0WaUuJD1js7DbOvYwKoN5HA=s0-e14"></a>' );
 // 代表顏色
