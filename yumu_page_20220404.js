@@ -15,7 +15,7 @@ $("#inthegallery2,#inthegallery3,#rlt-posts,#trailer-tv,#trailer-comedy,#trailer
 $(".yumutrigger").click(function(){var i=$(this);
 $(".extraimgs").slideToggle("slow",function(){$(this).is(":visible")?i.text("no more"):i.text("more")})}),
 // 打賞
-$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://core.newebpay.com/EPG/donate_yumustory/M9bI09">小額打賞 <i class="fa-solid fa-heart fa-beat" style="color: #6667AB;"></i> 小額大心</a>' );
+$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://core.newebpay.com/EPG/donate_yumustory/M9bI09">小額打賞 <i class="fa-solid fa-heart fa-beat" style="color: #ffc0cb;"></i> 小額大心</a>' );
 // 代表顏色
 $(".yumu-poster-flip").click(function(){$(this).toggleClass("bside")});
 // 336 e總數 0mydoll 1小三 2nude 3MK1 4MK2 5鈴木 6OB 7dayou
