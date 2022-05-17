@@ -17,4 +17,4 @@
 /*三欄*/
 .col,.sitemap{box-sizing:border-box}.col{float:left;width:33.33%;padding:.5em;font-size:.7em}.sitemap:after{content:"";display:table;clear:both}@media screen and (max-width:400px){.col{width:100%}}@media screen and (min-width:401px) and (max-width:800px){.col{width:50%}.col:last-child{width:100%}}
 /*散文*/
-@font-face{font-family:nanifont;src:url(https://cdn.jsdelivr.net/gh/yumustory/yumu-js/NaniFont-ExtraLight.woff2) format("woff2");font-display:swap}.handwriting{font-family:nanifont}
+@font-face{font-family:sanafongyou;src:url(https://cdn.jsdelivr.net/gh/yumustory/yumu-js/sanafongyou.ttf) format("truetype");font-display:swap}.handwriting{font-family:sanafongyou}
