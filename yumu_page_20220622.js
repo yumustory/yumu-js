@@ -15,7 +15,7 @@ $("#inthegallery2,#inthegallery3,#rlt-posts,#trailer-tv,#trailer-comedy,#trailer
 $(".yumutrigger").click(function(){var i=$(this);
 $(".extraimgs").slideToggle("slow",function(){$(this).is(":visible")?i.text("no more"):i.text("more")})}),
 // 打賞
-$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://core.newebpay.com/EPG/donate_yumustory/M9bI09">小額打賞 <i class="fa-solid fa-heart fa-beat" style="color: #ffc0cb;"></i> 小額大心</a>' );
+$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://www.jkopay.com/transfer?j=Transfer:901856480">小額打賞 <img alt="jkopay" data-original-height="40" data-original-width="80" src="https://blogger.googleusercontent.com/img/a/AVvXsEiRomiW51cjgqXpemFIMnlnWr9WV79LSxnCYGRHed4vYfLTEfJ3QjYKr-3dyt5AGdHBgz1ZmEnFJ8HOBnrNJafNcBGQ6kO29EhK-WjLjFxgLFm-_va_A3tRcfJevqWLPAhCRv1EhUxQ4_Ygj5Jf4F0Oz8X8faoJKkmiILKyQePHBXY4-tzjRfUYdo8BxQ=w80-h40-rw" /> 小額大心</a>' );
 // 代表顏色
 $(".yumu-poster-flip").click(function(){$(this).toggleClass("bside")});
 // 330 e總數 0616
