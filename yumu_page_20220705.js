@@ -15,7 +15,7 @@ $("#inthegallery2,#inthegallery3,#rlt-posts,#trailer-tv,#trailer-comedy,#trailer
 $(".yumutrigger").click(function(){var i=$(this);
 $(".extraimgs").slideToggle("slow",function(){$(this).is(":visible")?i.text("no more"):i.text("more")})}),
 // 打賞
-$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://www.jkopay.com/transfer?j=Transfer:901856480">小額打賞 <img alt="jkopay" data-original-height="40" data-original-width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXujXDBp4XTNB9MVgY-l_sBf2WK_1Vz4031--Yww6Ty5y1EbknEtBYFBcGAAnojGTvjI94tTsimbcYefzR2foygKHHzXhixDA6nkbuYGWaKG0Nf1MRBwC7CwLrlhW-UE3DrvdqmPHd4b41b0elyj6WrainRUy_5fzoHPTUbCByIjhWlpY_Su43WzeE8A/s40-c/jkopay-logo.jpg" style="vertical-align:middle" /> 小額大心</a>' );
+$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://www.jkopay.com/transfer?j=Transfer:901856480">小額斗內 <img alt="jkopay" data-original-height="40" data-original-width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXujXDBp4XTNB9MVgY-l_sBf2WK_1Vz4031--Yww6Ty5y1EbknEtBYFBcGAAnojGTvjI94tTsimbcYefzR2foygKHHzXhixDA6nkbuYGWaKG0Nf1MRBwC7CwLrlhW-UE3DrvdqmPHd4b41b0elyj6WrainRUy_5fzoHPTUbCByIjhWlpY_Su43WzeE8A/s40-c/jkopay-logo.jpg" style="vertical-align:middle" /> 小額大心</a>' );
 // 代表顏色
 $(".yumu-poster-flip").click(function(){$(this).toggleClass("bside")});
 // 330 e總數 0630
