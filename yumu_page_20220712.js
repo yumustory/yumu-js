@@ -14,8 +14,8 @@ $("#inthegallery2,#inthegallery3,#rlt-posts,#trailer-tv,#trailer-comedy,#trailer
 // 更多劇照
 $(".yumutrigger").click(function(){var i=$(this);
 $(".extraimgs").slideToggle("slow",function(){$(this).is(":visible")?i.text("no more"):i.text("more")})}),
-// 打賞
-$(".ymdonate").html( '<a class="ripple-btn ripple" target="_blank" href="https://www.jkopay.com/transfer?j=Transfer:901856480">小額斗內 <img alt="jkopay" data-original-height="40" data-original-width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXujXDBp4XTNB9MVgY-l_sBf2WK_1Vz4031--Yww6Ty5y1EbknEtBYFBcGAAnojGTvjI94tTsimbcYefzR2foygKHHzXhixDA6nkbuYGWaKG0Nf1MRBwC7CwLrlhW-UE3DrvdqmPHd4b41b0elyj6WrainRUy_5fzoHPTUbCByIjhWlpY_Su43WzeE8A/s40-c/jkopay-logo.jpg" style="vertical-align:middle" /> 小額大心</a>' );
+// 斗內
+$(".ymdonate").html( '<span class="ripple-btn ripple"><a target="_blank" href="https://www.jkopay.com/transfer?j=Transfer:901856480"><img alt="jkopay" data-original-height="80" data-original-width="80" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_bITIpQDArxaCIhuIIujoUfii_WHDvvBd4ujTnqg7rUgwq9kd_I3u1mPXg-yeEDQ-kj2wYXw_lmFavN0TaiElPWuzYzWldoMQOWapXHASaK4DXwcrswRp0jCRk5rHnf4zQpPgIyPzeXk1tIG6Tubw3lkGmW3HiglhF79T7po_WyptYJjzL7_BTLLFpw/s40-rp-e14/jkopay80.png" style="vertical-align:middle" /></a> <i class="fa-solid fa-hand-point-left"></i> 小額斗內 小額大心 <i class="fa-solid fa-hand-point-right"></i> <a target="_blank" href="https://p.ecpay.com.tw/E651E"><img alt="ecpay" data-original-height="80" data-original-width="80" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKZZSzMgnECLrmahRmaJT4L-lNryG6u6UH4weNajf0YnIJR9BzpRDPLAefvuT7PXpB8KeH9OL1W-Vg0VnzgC2ZEJLT-eTQJYmN1KwY1dh1LqIZR5xliooAPIOH_-mu_LeAwcCS4FHKhiWMynbMJmyeyVyTlkqPa1UzTu8pTn_uHAAxLU3FZyX3ZnxxGQ/s40-rp-e14/ecpay80.png" style="vertical-align:middle" /></a></span>' );
 // 代表顏色
 $(".yumu-poster-flip").click(function(){$(this).toggleClass("bside")});
 // 330 e總數 0707
