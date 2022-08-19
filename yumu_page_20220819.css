@@ -15,6 +15,6 @@
 /*相關*/
 .relative-monthly{display:flex;height:50px;width:98%;background:linear-gradient(to right,#84394f 0,transparent 84%)}.monthly-title{margin:auto 1em}
 /*三欄*/
-.col,.sitemap{box-sizing:border-box}.col{float:left;width:33.33%;padding:.5em;font-size:.7em}.sitemap:after{content:"";display:table;clear:both}@media screen and (max-width:400px){.col{width:100%}}@media screen and (min-width:401px) and (max-width:800px){.col{width:50%}.col:last-child{width:100%}}
+.yumu-sitemap{columns:3;list-style-type:none;margin:0;padding:0}
 /*散文*/
 @font-face{font-family:ChenYuluoyan;src:url(https://cdn.jsdelivr.net/gh/yumustory/yumu-js/ChenYuluoyan-Thin.woff2) format("woff2");font-display:swap}.handwriting{font-family:ChenYuluoyan;font-size:1.8em}
