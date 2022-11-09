@@ -10,7 +10,7 @@ c.prototype.toogle=function(){var a=this;a.core.s.toogleThumb&&(a.core.$outer.ad
 /*! JQ綜合*/
 $(document).ready(function(){
 // 輪播
-$("#inthegallery2,#inthegallery3,#rlt-posts,#trailer-tv,#trailer-comedy,#trailer-romance,#trailer-crime,#trailer-thriller,#trailer-drama,#trailer-animation,#trailer-adventure").lightSlider({item:5,slideMargin:10,autoWidth:!0,onSliderLoad:function(e){e.lightGallery({selector:".poster-gallery",loadYoutubeThumbnail:!0,youtubeThumbSize:"default",subHtmlSelectorRelative:!0,googlePlus:!1})}}),$(".post-body-container").lightGallery({selector:".inthegallery,.yttrailers",mode:"lg-fade",allowMediaOverlap:!0,thumbnail:!0,subHtmlSelectorRelative:!0,loadYoutubeThumbnail:!0,youtubeThumbSize:"default",googlePlus:!1,getCaptionFromTitleOrAlt:!1}),$("#yt-caption").lightGallery({thumbnail:!0,googlePlus:!1});
+$("#inthegallery2,#inthegallery3,#rlt-posts,#trailer-tv,#trailer-comedy,#trailer-romance,#trailer-crime,#trailer-thriller,#trailer-drama,#trailer-animation,#trailer-adventure").lightSlider({item:5,slideMargin:10,autoWidth:!0,onSliderLoad:function(e){e.lightGallery({selector:".poster-gallery",loadYoutubeThumbnail:!0,youtubeThumbSize:"default",subHtmlSelectorRelative:!0,googlePlus:!1})}}),$(".post-body-container").lightGallery({selector:".inthegallery,.yttrailers",mode:"lg-fade",thumbnail:!0,showThumbByDefault:!1,subHtmlSelectorRelative:!0,loadYoutubeThumbnail:!0,youtubeThumbSize:"default",googlePlus:!1,getCaptionFromTitleOrAlt:!1}),$("#yt-caption").lightGallery({thumbnail:!0,googlePlus:!1});
 // 更多劇照
 $(".yumutrigger").click(function(){var i=$(this);
 $(".extraimgs").slideToggle("slow",function(){$(this).is(":visible")?i.text("no more"):i.text("more")})}),
