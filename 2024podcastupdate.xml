@@ -25,21 +25,39 @@ https://ofyumu.wordpress.com/</itunes:summary>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1601145/1601145-1703010808431-674c6b974324f.jpg"/>
 		<item>
-			<title><![CDATA[成為別人的負擔是最寂寞的｜《起終點站》電影心得]]></title>
-			<description><![CDATA[<p>《起終點站》電影心得</p><p>網站「雨木洞」<a href="https://ofyumu.wordpress.com/" target="_blank" rel="ugc noopener noreferrer">https://ofyumu.wordpress.com/</a></p>
+			<title><![CDATA[到最後該怎樣還是會怎樣又怎樣｜《不羈騎士》電影心得]]></title>
+			<description><![CDATA[<p>《不羈騎士》電影心得</p><p>網站「雨木洞」<a href="https://ofyumu.wordpress.com/" target="_blank" rel="ugc noopener noreferrer">https://ofyumu.wordpress.com/</a></p>
 ]]></description>
-			<link>https://podcasters.spotify.com/pod/show/yumu-review/episodes/ep-e3or154</link>
-			<guid isPermaLink="false">08e053b7-e10d-4b0b-939b-1416c652a272</guid>
+			<link>https://podcasters.spotify.com/pod/show/yumu-review/episodes/ep-e3ou3mt</link>
+			<guid isPermaLink="false">09c027ba-1b7f-4e99-b934-aa20e1cdc6ac</guid>
 			<dc:creator><![CDATA[黃雨木]]></dc:creator>
-			<pubDate>Sun, 07 Jul 2024 12:55:00 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/a23bdc4/podcast/play/125715044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F5d6d4afc-4141-88a3-8950-560345cbce59.m4a" length="26474362" type="audio/x-m4a"/>
-			<itunes:summary>&lt;p&gt;《起終點站》電影心得&lt;/p&gt;&lt;p&gt;網站「雨木洞」&lt;a href=&quot;https://ofyumu.wordpress.com/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://ofyumu.wordpress.com/&lt;/a&gt;&lt;/p&gt;
+			<pubDate>Sun, 28 Jul 2024 10:18:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/a23bdc4/podcast/play/125815965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2Ff6c0dfdf-4b7d-852f-caf7-7874cb844d17.m4a" length="16568772" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;《不羈騎士》電影心得&lt;/p&gt;&lt;p&gt;網站「雨木洞」&lt;a href=&quot;https://ofyumu.wordpress.com/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://ofyumu.wordpress.com/&lt;/a&gt;&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:31:31</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1601145/1601145-1789390595919-095f1fea9707b.jpg"/>
+			<itunes:duration>00:19:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1601145/1601145-1789553968489-2ecb53b795b98.jpg"/>
 			<itunes:season>10</itunes:season>
-			<itunes:episode>24</itunes:episode>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[塔裡的女人超乎你的想像｜《蒼鷺與少年》電影心得]]></title>
+			<description><![CDATA[<p>《蒼鷺與少年》電影心得</p><p>網站「雨木洞」<a href="https://ofyumu.wordpress.com/" target="_blank" rel="ugc noopener noreferrer">https://ofyumu.wordpress.com/</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yumu-review/episodes/ep-e3ou3k5</link>
+			<guid isPermaLink="false">141cbe17-19b5-4166-a191-9b53bcc3dcdc</guid>
+			<dc:creator><![CDATA[黃雨木]]></dc:creator>
+			<pubDate>Thu, 04 Jul 2024 10:16:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/a23bdc4/podcast/play/125815877/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F7863435a-820b-eef8-6e33-0fbd0d078ff4.m4a" length="18758654" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;《蒼鷺與少年》電影心得&lt;/p&gt;&lt;p&gt;網站「雨木洞」&lt;a href=&quot;https://ofyumu.wordpress.com/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://ofyumu.wordpress.com/&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:22:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1601145/1601145-1789553844464-443bb01077f59.jpg"/>
+			<itunes:season>10</itunes:season>
+			<itunes:episode>23</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
